@@ -4,5 +4,5 @@
 
 ## Welcome! 👋
 
-Here is a link to the page: 
+Here is a link to the page:  https://nazimajumaniyazova.github.io/order-summary-component-frontendmentor/
 
